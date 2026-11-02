@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1764" height="855.8" viewBox="0 0 1764 855.8" font-family="Helvetica, Arial, sans-serif">
+<rect width="1764" height="855.8" fill="#fbfaf7"/>
+<text x="22" y="42" font-size="26" font-weight="700" fill="#1d2420">User Journey: Lightweight Foldable Mobility Scooter</text>
+<text x="22" y="66" font-size="13" fill="#4b564e">Elderly riders and their family caregivers · synthesized from 36 in-depth interviews (China) · a case study in user research and product definition</text>
+<rect x="22" y="84" width="1720" height="82" rx="6" fill="#ffffff" stroke="#d3d7cd"/>
+<text x="38" y="106" font-size="10" font-weight="700" fill="#c4632a" letter-spacing="1">PRIMARY RIDER (COMPOSITE)</text>
+<text x="38" y="122" font-size="11.5" fill="#1d2420">Age 55–88 (median 76). Walks short distances, uses a scooter for</text>
+<text x="38" y="136" font-size="11.5" fill="#1d2420">errands and strolls. Wants independence, dislikes anything that</text>
+<text x="38" y="150" font-size="11.5" fill="#1d2420">looks like a “patient device”.</text>
+<text x="432" y="106" font-size="10" font-weight="700" fill="#c4632a" letter-spacing="1">FAMILY CAREGIVER (DECISION MAKER)</text>
+<text x="432" y="122" font-size="11.5" fill="#1d2420">Usually an adult child, often living in another city. Buys for</text>
+<text x="432" y="136" font-size="11.5" fill="#1d2420">safety and peace of mind; often the one who lifts the scooter</text>
+<text x="432" y="150" font-size="11.5" fill="#1d2420">into the car.</text>
+<text x="832" y="106" font-size="10" font-weight="700" fill="#c4632a" letter-spacing="1">THE CORE TENSION</text>
+<text x="832" y="122" font-size="11.5" fill="#1d2420">The scooter gives the rider freedom every day, yet becomes a burden at the moments of lifting, travel and repair, and those moments decide whether the family</text>
+<text x="832" y="136" font-size="11.5" fill="#1d2420">keeps it.</text>
+<rect x="142" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="154" y="219" font-size="12" font-weight="700" fill="#e2864a">1</text>
+<text x="170" y="219" font-size="13" font-weight="700" fill="#ffffff">Trigger</text>
+<rect x="320" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="332" y="219" font-size="12" font-weight="700" fill="#e2864a">2</text>
+<text x="348" y="219" font-size="13" font-weight="700" fill="#ffffff">Research</text>
+<rect x="498" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="510" y="219" font-size="12" font-weight="700" fill="#e2864a">3</text>
+<text x="526" y="219" font-size="13" font-weight="700" fill="#ffffff">Decide &amp; Buy</text>
+<rect x="676" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="688" y="219" font-size="12" font-weight="700" fill="#e2864a">4</text>
+<text x="704" y="219" font-size="13" font-weight="700" fill="#ffffff">First Use</text>
+<rect x="854" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="866" y="219" font-size="12" font-weight="700" fill="#e2864a">5</text>
+<text x="882" y="219" font-size="13" font-weight="700" fill="#ffffff">Daily Use</text>
+<rect x="1032" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="1044" y="219" font-size="12" font-weight="700" fill="#e2864a">6</text>
+<text x="1060" y="219" font-size="13" font-weight="700" fill="#ffffff">Lift &amp; Carry</text>
+<rect x="1210" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="1222" y="219" font-size="12" font-weight="700" fill="#e2864a">7</text>
+<text x="1238" y="219" font-size="13" font-weight="700" fill="#ffffff">Travel</text>
+<rect x="1388" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="1400" y="219" font-size="12" font-weight="700" fill="#e2864a">8</text>
+<text x="1416" y="219" font-size="13" font-weight="700" fill="#ffffff">Maintain &amp; Charge</text>
+<rect x="1566" y="190" width="174" height="46" rx="6" fill="#1d2420"/>
+<text x="1578" y="219" font-size="12" font-weight="700" fill="#e2864a">9</text>
+<text x="1594" y="219" font-size="13" font-weight="700" fill="#ffffff">Advocate &amp; Expand</text>
+<rect x="22" y="244" width="1720" height="78.8" fill="#ffffff" stroke="#e3e0d6"/>
+<text x="32" y="266" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">DOING</text>
+<line x1="318" y1="244" x2="318" y2="322.8" stroke="#e3e0d6"/>
+<line x1="496" y1="244" x2="496" y2="322.8" stroke="#e3e0d6"/>
+<line x1="674" y1="244" x2="674" y2="322.8" stroke="#e3e0d6"/>
+<line x1="852" y1="244" x2="852" y2="322.8" stroke="#e3e0d6"/>
+<line x1="1030" y1="244" x2="1030" y2="322.8" stroke="#e3e0d6"/>
+<line x1="1208" y1="244" x2="1208" y2="322.8" stroke="#e3e0d6"/>
+<line x1="1386" y1="244" x2="1386" y2="322.8" stroke="#e3e0d6"/>
+<line x1="1564" y1="244" x2="1564" y2="322.8" stroke="#e3e0d6"/>
+<text x="150" y="264.0" font-size="11.2" fill="#1d2420">A fall or shrinking walking</text>
+<text x="150" y="278.2" font-size="11.2" fill="#1d2420">range (rests every 200–300</text>
+<text x="150" y="292.4" font-size="11.2" fill="#1d2420">m). A family member starts</text>
+<text x="150" y="306.6" font-size="11.2" fill="#1d2420">worrying about safety.</text>
+<text x="328" y="264.0" font-size="11.2" fill="#1d2420">Watch brand videos, visit</text>
+<text x="328" y="278.2" font-size="11.2" fill="#1d2420">stores in person, compare</text>
+<text x="328" y="292.4" font-size="11.2" fill="#1d2420">with wheelchairs and</text>
+<text x="328" y="306.6" font-size="11.2" fill="#1d2420">walkers.</text>
+<text x="506" y="264.0" font-size="11.2" fill="#1d2420">The family caregiver usually</text>
+<text x="506" y="278.2" font-size="11.2" fill="#1d2420">decides (≈74% of buyers).</text>
+<text x="506" y="292.4" font-size="11.2" fill="#1d2420">Price is weighed against</text>
+<text x="506" y="306.6" font-size="11.2" fill="#1d2420">safety and fold size.</text>
+<text x="684" y="264.0" font-size="11.2" fill="#1d2420">Unbox, adjust, learn the</text>
+<text x="684" y="278.2" font-size="11.2" fill="#1d2420">controls. First short rides</text>
+<text x="684" y="292.4" font-size="11.2" fill="#1d2420">near home.</text>
+<text x="862" y="264.0" font-size="11.2" fill="#1d2420">Wet market, park, neighbors:</text>
+<text x="862" y="278.2" font-size="11.2" fill="#1d2420">1–2 h a day, mostly on flat,</text>
+<text x="862" y="292.4" font-size="11.2" fill="#1d2420">accessible paths.</text>
+<text x="1040" y="264.0" font-size="11.2" fill="#1d2420">Fold, lift into a car trunk,</text>
+<text x="1040" y="278.2" font-size="11.2" fill="#1d2420">carry over steps. Often</text>
+<text x="1040" y="292.4" font-size="11.2" fill="#1d2420">needs a second, stronger</text>
+<text x="1040" y="306.6" font-size="11.2" fill="#1d2420">person.</text>
+<text x="1218" y="264.0" font-size="11.2" fill="#1d2420">Subway, high-speed rail,</text>
+<text x="1218" y="278.2" font-size="11.2" fill="#1d2420">flights, trips to relatives</text>
+<text x="1218" y="292.4" font-size="11.2" fill="#1d2420">and tourist sites.</text>
+<text x="1396" y="264.0" font-size="11.2" fill="#1d2420">Charge every few days, fix</text>
+<text x="1396" y="278.2" font-size="11.2" fill="#1d2420">flat tires, avoid rain, find</text>
+<text x="1396" y="292.4" font-size="11.2" fill="#1d2420">repair help.</text>
+<text x="1574" y="264.0" font-size="11.2" fill="#1d2420">Friends admire it and ask</text>
+<text x="1574" y="278.2" font-size="11.2" fill="#1d2420">for the link; households</text>
+<text x="1574" y="292.4" font-size="11.2" fill="#1d2420">consider a second unit.</text>
+<rect x="22" y="322.8" width="1720" height="64.6" fill="#f7f4ee" stroke="#e3e0d6"/>
+<text x="32" y="344.8" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">TOUCHPOINTS</text>
+<line x1="318" y1="322.8" x2="318" y2="387.4" stroke="#e3e0d6"/>
+<line x1="496" y1="322.8" x2="496" y2="387.4" stroke="#e3e0d6"/>
+<line x1="674" y1="322.8" x2="674" y2="387.4" stroke="#e3e0d6"/>
+<line x1="852" y1="322.8" x2="852" y2="387.4" stroke="#e3e0d6"/>
+<line x1="1030" y1="322.8" x2="1030" y2="387.4" stroke="#e3e0d6"/>
+<line x1="1208" y1="322.8" x2="1208" y2="387.4" stroke="#e3e0d6"/>
+<line x1="1386" y1="322.8" x2="1386" y2="387.4" stroke="#e3e0d6"/>
+<line x1="1564" y1="322.8" x2="1564" y2="387.4" stroke="#e3e0d6"/>
+<text x="150" y="342.8" font-size="11.2" fill="#1d2420">Family conversation · a</text>
+<text x="150" y="357.0" font-size="11.2" fill="#1d2420">neighbor&#x27;s or friend&#x27;s</text>
+<text x="150" y="371.2" font-size="11.2" fill="#1d2420">scooter</text>
+<text x="328" y="342.8" font-size="11.2" fill="#1d2420">Short-video platforms ·</text>
+<text x="328" y="357.0" font-size="11.2" fill="#1d2420">offline stores · family</text>
+<text x="328" y="371.2" font-size="11.2" fill="#1d2420">group chats</text>
+<text x="506" y="342.8" font-size="11.2" fill="#1d2420">Store test ride · online</text>
+<text x="506" y="357.0" font-size="11.2" fill="#1d2420">order · caregiver–rider call</text>
+<text x="684" y="342.8" font-size="11.2" fill="#1d2420">Manual · setup video ·</text>
+<text x="684" y="357.0" font-size="11.2" fill="#1d2420">family help</text>
+<text x="862" y="342.8" font-size="11.2" fill="#1d2420">The scooter itself ·</text>
+<text x="862" y="357.0" font-size="11.2" fill="#1d2420">community paths</text>
+<text x="1040" y="342.8" font-size="11.2" fill="#1d2420">Car trunk · building</text>
+<text x="1040" y="357.0" font-size="11.2" fill="#1d2420">entrance · family members</text>
+<text x="1218" y="342.8" font-size="11.2" fill="#1d2420">Stations · airlines · trip</text>
+<text x="1218" y="357.0" font-size="11.2" fill="#1d2420">planning chats</text>
+<text x="1396" y="342.8" font-size="11.2" fill="#1d2420">After-sales chat · local</text>
+<text x="1396" y="357.0" font-size="11.2" fill="#1d2420">repair shop · charger</text>
+<text x="1574" y="342.8" font-size="11.2" fill="#1d2420">Friends · community groups ·</text>
+<text x="1574" y="357.0" font-size="11.2" fill="#1d2420">short videos</text>
+<rect x="22" y="387.4" width="1720" height="78.8" fill="#ffffff" stroke="#e3e0d6"/>
+<text x="32" y="409.4" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">THINKING</text>
+<line x1="318" y1="387.4" x2="318" y2="466.2" stroke="#e3e0d6"/>
+<line x1="496" y1="387.4" x2="496" y2="466.2" stroke="#e3e0d6"/>
+<line x1="674" y1="387.4" x2="674" y2="466.2" stroke="#e3e0d6"/>
+<line x1="852" y1="387.4" x2="852" y2="466.2" stroke="#e3e0d6"/>
+<line x1="1030" y1="387.4" x2="1030" y2="466.2" stroke="#e3e0d6"/>
+<line x1="1208" y1="387.4" x2="1208" y2="466.2" stroke="#e3e0d6"/>
+<line x1="1386" y1="387.4" x2="1386" y2="466.2" stroke="#e3e0d6"/>
+<line x1="1564" y1="387.4" x2="1564" y2="466.2" stroke="#e3e0d6"/>
+<text x="150" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“Walking is getting harder.</text>
+<text x="150" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">I want something to get</text>
+<text x="150" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">around near home.”</text>
+<text x="328" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“Is it stable? Does it brake</text>
+<text x="328" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">safely? Can it go on the</text>
+<text x="328" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">train?”</text>
+<text x="506" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“I didn&#x27;t want to buy it at</text>
+<text x="506" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">first. It felt dangerous.</text>
+<text x="506" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">Then she tried it herself.”</text>
+<text x="684" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“Why does it stop when I let</text>
+<text x="684" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">go? I almost bumped into a</text>
+<text x="684" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">child.”</text>
+<text x="862" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“Now I can go there on my</text>
+<text x="862" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">own. I used to need someone</text>
+<text x="862" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">with me.”</text>
+<text x="1040" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“One step and I could not</text>
+<text x="1040" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">pull it up. I can&#x27;t do it</text>
+<text x="1040" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">alone.”</text>
+<text x="1218" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“I doubt it can really go on</text>
+<text x="1218" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">a high-speed train or</text>
+<text x="1218" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">plane.”</text>
+<text x="1396" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“It can&#x27;t be pushed, it</text>
+<text x="1396" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">can&#x27;t be carried. I need</text>
+<text x="1396" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">someone to come to the</text>
+<text x="1396" y="450.0" font-size="11.2" font-style="italic" fill="#1d2420">house.”</text>
+<text x="1574" y="407.4" font-size="11.2" font-style="italic" fill="#1d2420">“It looks fashionable and</text>
+<text x="1574" y="421.59999999999997" font-size="11.2" font-style="italic" fill="#1d2420">free. A lot of people envy</text>
+<text x="1574" y="435.79999999999995" font-size="11.2" font-style="italic" fill="#1d2420">it.”</text>
+<rect x="22" y="466.2" width="1720" height="120" fill="#fbfaf7" stroke="#e3e0d6"/>
+<text x="32" y="488.2" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">EMOTION</text>
+<line x1="318" y1="466.2" x2="318" y2="586.2" stroke="#e3e0d6"/>
+<line x1="496" y1="466.2" x2="496" y2="586.2" stroke="#e3e0d6"/>
+<line x1="674" y1="466.2" x2="674" y2="586.2" stroke="#e3e0d6"/>
+<line x1="852" y1="466.2" x2="852" y2="586.2" stroke="#e3e0d6"/>
+<line x1="1030" y1="466.2" x2="1030" y2="586.2" stroke="#e3e0d6"/>
+<line x1="1208" y1="466.2" x2="1208" y2="586.2" stroke="#e3e0d6"/>
+<line x1="1386" y1="466.2" x2="1386" y2="586.2" stroke="#e3e0d6"/>
+<line x1="1564" y1="466.2" x2="1564" y2="586.2" stroke="#e3e0d6"/>
+<rect x="22" y="586.2" width="1720" height="78.8" fill="#fdf0ec" stroke="#e3e0d6"/>
+<text x="32" y="608.2" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">PAIN POINTS</text>
+<line x1="318" y1="586.2" x2="318" y2="665.0" stroke="#e3e0d6"/>
+<line x1="496" y1="586.2" x2="496" y2="665.0" stroke="#e3e0d6"/>
+<line x1="674" y1="586.2" x2="674" y2="665.0" stroke="#e3e0d6"/>
+<line x1="852" y1="586.2" x2="852" y2="665.0" stroke="#e3e0d6"/>
+<line x1="1030" y1="586.2" x2="1030" y2="665.0" stroke="#e3e0d6"/>
+<line x1="1208" y1="586.2" x2="1208" y2="665.0" stroke="#e3e0d6"/>
+<line x1="1386" y1="586.2" x2="1386" y2="665.0" stroke="#e3e0d6"/>
+<line x1="1564" y1="586.2" x2="1564" y2="665.0" stroke="#e3e0d6"/>
+<text x="150" y="606.2" font-size="11.2" fill="#8a3a2e">Scooters look like “patient</text>
+<text x="150" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">equipment”; the rider</text>
+<text x="150" y="634.6" font-size="11.2" fill="#8a3a2e">resists the stigma.</text>
+<text x="328" y="606.2" font-size="11.2" fill="#8a3a2e">Rated range and slope are</text>
+<text x="328" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">hard to verify; public-</text>
+<text x="328" y="634.6" font-size="11.2" fill="#8a3a2e">transport rules are unclear.</text>
+<text x="506" y="606.2" font-size="11.2" fill="#8a3a2e">Safety trust, not price, is</text>
+<text x="506" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">the deciding factor; remote</text>
+<text x="506" y="634.6" font-size="11.2" fill="#8a3a2e">buyers cannot try it.</text>
+<text x="684" y="606.2" font-size="11.2" fill="#8a3a2e">Release-to-brake logic is</text>
+<text x="684" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">opposite to bicycle muscle</text>
+<text x="684" y="634.6" font-size="11.2" fill="#8a3a2e">memory; seat is not</text>
+<text x="684" y="648.8000000000001" font-size="11.2" fill="#8a3a2e">adjustable.</text>
+<text x="862" y="606.2" font-size="11.2" fill="#8a3a2e">Real range ≈ half of the</text>
+<text x="862" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">rated figure; small curbs</text>
+<text x="862" y="634.6" font-size="11.2" fill="#8a3a2e">and slopes stop the ride.</text>
+<text x="1040" y="606.2" font-size="11.2" fill="#8a3a2e">Weight is the top pain</text>
+<text x="1040" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">(≈74%). Only ≈15% can load</text>
+<text x="1040" y="634.6" font-size="11.2" fill="#8a3a2e">it alone; folded size</text>
+<text x="1040" y="648.8000000000001" font-size="11.2" fill="#8a3a2e">doesn&#x27;t fit sedan trunks.</text>
+<text x="1218" y="606.2" font-size="11.2" fill="#8a3a2e">≈57% want cross-city travel;</text>
+<text x="1218" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">≈15% are served. Rules are</text>
+<text x="1218" y="634.6" font-size="11.2" fill="#8a3a2e">opaque and refusals happen.</text>
+<text x="1396" y="606.2" font-size="11.2" fill="#8a3a2e">Puncture-prone tires; water</text>
+<text x="1396" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">gets into the controller;</text>
+<text x="1396" y="634.6" font-size="11.2" fill="#8a3a2e">full charge takes 6–8 h.</text>
+<text x="1574" y="606.2" font-size="11.2" fill="#8a3a2e">Anything that looks medical</text>
+<text x="1574" y="620.4000000000001" font-size="11.2" fill="#8a3a2e">makes riders reluctant to</text>
+<text x="1574" y="634.6" font-size="11.2" fill="#8a3a2e">show it.</text>
+<rect x="22" y="665.0" width="1720" height="78.8" fill="#eef5ef" stroke="#e3e0d6"/>
+<text x="32" y="687.0" font-size="10.5" font-weight="700" fill="#4b564e" letter-spacing="1">OPPORTUNITIES</text>
+<line x1="318" y1="665.0" x2="318" y2="743.8" stroke="#e3e0d6"/>
+<line x1="496" y1="665.0" x2="496" y2="743.8" stroke="#e3e0d6"/>
+<line x1="674" y1="665.0" x2="674" y2="743.8" stroke="#e3e0d6"/>
+<line x1="852" y1="665.0" x2="852" y2="743.8" stroke="#e3e0d6"/>
+<line x1="1030" y1="665.0" x2="1030" y2="743.8" stroke="#e3e0d6"/>
+<line x1="1208" y1="665.0" x2="1208" y2="743.8" stroke="#e3e0d6"/>
+<line x1="1386" y1="665.0" x2="1386" y2="743.8" stroke="#e3e0d6"/>
+<line x1="1564" y1="665.0" x2="1564" y2="743.8" stroke="#e3e0d6"/>
+<text x="150" y="685.0" font-size="11.2" fill="#2f5f33">Position as freedom and</text>
+<text x="150" y="699.2" font-size="11.2" fill="#2f5f33">independence, not medical</text>
+<text x="150" y="713.4" font-size="11.2" fill="#2f5f33">aid.</text>
+<text x="328" y="685.0" font-size="11.2" fill="#2f5f33">Honest spec sheet, in-store</text>
+<text x="328" y="699.2" font-size="11.2" fill="#2f5f33">test ride, a clear</text>
+<text x="328" y="713.4" font-size="11.2" fill="#2f5f33">compliance page.</text>
+<text x="506" y="685.0" font-size="11.2" fill="#2f5f33">Trial period or rent-to-own;</text>
+<text x="506" y="699.2" font-size="11.2" fill="#2f5f33">caregiver-facing materials.</text>
+<text x="684" y="685.0" font-size="11.2" fill="#2f5f33">Guided onboarding; softer</text>
+<text x="684" y="699.2" font-size="11.2" fill="#2f5f33">braking curve; adjustable</text>
+<text x="684" y="713.4" font-size="11.2" fill="#2f5f33">seat.</text>
+<text x="862" y="685.0" font-size="11.2" fill="#2f5f33">Honest battery gauge; better</text>
+<text x="862" y="699.2" font-size="11.2" fill="#2f5f33">obstacle and slope</text>
+<text x="862" y="713.4" font-size="11.2" fill="#2f5f33">performance.</text>
+<text x="1040" y="685.0" font-size="11.2" fill="#2f5f33">Target 17–18 kg with</text>
+<text x="1040" y="699.2" font-size="11.2" fill="#2f5f33">battery; centered handle;</text>
+<text x="1040" y="713.4" font-size="11.2" fill="#2f5f33">quick-release battery and</text>
+<text x="1040" y="727.6" font-size="11.2" fill="#2f5f33">seat.</text>
+<text x="1218" y="685.0" font-size="11.2" fill="#2f5f33">Carry-on-sized fold,</text>
+<text x="1218" y="699.2" font-size="11.2" fill="#2f5f33">removable battery, printed</text>
+<text x="1218" y="713.4" font-size="11.2" fill="#2f5f33">compliance documents.</text>
+<text x="1396" y="685.0" font-size="11.2" fill="#2f5f33">Solid-tire option, sealed</text>
+<text x="1396" y="699.2" font-size="11.2" fill="#2f5f33">chassis, faster charging,</text>
+<text x="1396" y="713.4" font-size="11.2" fill="#2f5f33">mobile repair.</text>
+<text x="1574" y="685.0" font-size="11.2" fill="#2f5f33">Referral program; household</text>
+<text x="1574" y="699.2" font-size="11.2" fill="#2f5f33">bundle; non-medical design</text>
+<text x="1574" y="713.4" font-size="11.2" fill="#2f5f33">language.</text>
+<line x1="140" y1="526.2" x2="1742" y2="526.2" stroke="#b7bdae" stroke-dasharray="4 4"/>
+<text x="132" y="492.20000000000005" font-size="9.5" fill="#7c8880" text-anchor="end">positive</text>
+<text x="132" y="568.2" font-size="9.5" fill="#7c8880" text-anchor="end">negative</text>
+<path d="M229.0,545.2 L407.0,526.2 L585.0,507.2 L763.0,545.2 L941.0,488.2 L1119.0,564.2 L1297.0,545.2 L1475.0,545.2 L1653.0,488.2" fill="none" stroke="#c4632a" stroke-width="2.5"/>
+<circle cx="229.0" cy="545.2" r="7" fill="#b14a3e" stroke="#fff" stroke-width="2"/>
+<circle cx="407.0" cy="526.2" r="7" fill="#7c8880" stroke="#fff" stroke-width="2"/>
+<circle cx="585.0" cy="507.2" r="7" fill="#4c7a4a" stroke="#fff" stroke-width="2"/>
+<circle cx="763.0" cy="545.2" r="7" fill="#b14a3e" stroke="#fff" stroke-width="2"/>
+<circle cx="941.0" cy="488.2" r="7" fill="#4c7a4a" stroke="#fff" stroke-width="2"/>
+<circle cx="1119.0" cy="564.2" r="7" fill="#b14a3e" stroke="#fff" stroke-width="2"/>
+<circle cx="1297.0" cy="545.2" r="7" fill="#b14a3e" stroke="#fff" stroke-width="2"/>
+<circle cx="1475.0" cy="545.2" r="7" fill="#b14a3e" stroke="#fff" stroke-width="2"/>
+<circle cx="1653.0" cy="488.2" r="7" fill="#4c7a4a" stroke="#fff" stroke-width="2"/>
+<rect x="22" y="757.8" width="1720" height="50" rx="6" fill="#efdcc9"/>
+<text x="36" y="778.8" font-size="10.5" font-weight="700" fill="#7a3a15" letter-spacing="1">WHERE TO INTERVENE FIRST</text>
+<text x="36" y="796.8" font-size="12.5" fill="#1d2420">Stage 6 (lift &amp; carry) and stage 7 (travel) have the lowest emotion and the highest unmet need, so weight, fold size and compliance are the launch wedge. Stage 4 and stage 8 are the next fixes.</text>
+<text x="22" y="841.8" font-size="10.5" fill="#7c8880">Percentages are shares of the interview sample (n=36) and are directional. Quotes are paraphrased and anonymized. Evidence level: interview-based, not a statistical study.</text>
+</svg>
